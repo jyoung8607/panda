@@ -1,6 +1,6 @@
 #pragma once
 
-#include "board/can.h"
+#include "opendbc/safety/can.h"
 
 typedef struct {
   volatile uint32_t w_ptr;
